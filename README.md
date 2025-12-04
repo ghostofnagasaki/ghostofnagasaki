@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I’m Raheem
 
-<!--
-**ghostofnagasaki/ghostofnagasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-driven developer passionate about building practical, real-world software—especially tools that help people save time, improve their health, and learn more effectively. I enjoy turning ideas into functional apps, experimenting with AI-powered features, and continuously leveling up my engineering skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Currently Working On
+
+* **AI Home Workout App**
+  Using pose detection and motion-tracking to provide real-time form correction and workout guidance. Exploring APIs like MediaPipe, TensorFlow.js, and other pose-estimation solutions.
+
+* **React Native Projects**
+  Building cross-platform apps and learning more about performance optimization, navigation, and clean architecture.
+
+* **Full-stack Web Tools**
+  Simple but useful tools for daily life—fitness tracking, budgeting, productivity utilities, and more.
+
+---
+
+## 🛠️ Tools & Technologies I Use
+
+### **Frontend**
+
+* React
+* React Native
+* TypeScript
+* TailwindCSS
+* Next.js (learning & experimenting)
+
+### **Backend / APIs**
+
+* Node.js
+* Express
+* Firebase / Firestore
+* Supabase
+* REST APIs
+* Python (for data processing)
+
+### **AI / ML**
+
+* MediaPipe
+* TensorFlow.js
+* OpenAI APIs
+* Pose estimation models
+
+### **Mobile / Build Tools**
+
+* Android Studio
+* Gradle
+* Metro bundler
+* Expo (when useful)
+
+### **DevOps / Others**
+
+* Git & GitHub
+* VS Code
+* Postman
+* Docker (beginner)
+
+---
+
+## 📬 How to Reach Me
+
+* **LinkedIn:** [www.linkedin.com/in/raheem-campbell-947223381](www.linkedin.com/in/raheem-campbell-947223381)
+* **Instagram:** [https://www.instagram.com/alex_fx876](https://www.instagram.com/alex_fx876/))
+
+Feel free to reach out if you want to collaborate or have an opportunity you think I’d be a good fit for!
