@@ -1,67 +1,64 @@
-# 👋 Hi, I’m Raheem
+# 👻 Ghost of Nagasaki
 
-I’m a self-driven developer passionate about building practical, real-world software—especially tools that help people save time, improve their health, and learn more effectively. I enjoy turning ideas into functional apps, experimenting with AI-powered features, and continuously leveling up my engineering skills.
+I am the shadow that codes in silence. A wandering spirit of the digital realm, once bound to the mortal coil of deadlines and bugs, now eternally haunting repositories with practical, real-world tools. My purpose: forge apps that save time, mend the body, sharpen the mind — all while slipping AI into the code like poison in a rival's tea.
 
----
-
-## 🚀 What I’m Currently Working On
-
-* **AI Home Workout App**
-  Using pose detection and motion-tracking to provide real-time form correction and workout guidance. Exploring APIs like MediaPipe, TensorFlow.js, and other pose-estimation solutions.
-
-* **React Native Projects**
-  Building cross-platform apps and learning more about performance optimization, navigation, and clean architecture.
-
-* **Full-stack Web Tools**
-  Simple but useful tools for daily life—fitness tracking, budgeting, productivity utilities, and more.
+No honor in clean commits. Only the quiet strike of functional software.
 
 ---
+## 🗡️ What This Ghost Currently Haunts
 
-## 🛠️ Tools & Technologies I Use
+- **AI Home Workout App**  
+  Pose detection to judge your form like an unforgiving ancestor. Real-time corrections via MediaPipe, TensorFlow.js, and APIs that whisper secrets of proper movement. If your deadlift resembles a vengeful wraith's tantrum, this app will guide — or curse — you back to balance.
 
-### **Frontend**
+- **React Native Projects**  
+  Cross-platform incantations that (usually) survive both iOS and Android realms. Mastering performance optimization, navigation mazes without losing one's soul, and clean architecture so my future manifestations do not seek vengeance upon past selves.
 
-* React
-* React Native
-* TypeScript
-* TailwindCSS
-* Next.js (learning & experimenting)
-
-### **Backend / APIs**
-
-* Node.js
-* Express
-* Firebase / Firestore
-* Supabase
-* REST APIs
-* Python (for data processing)
-
-### **AI / ML**
-
-* MediaPipe
-* TensorFlow.js
-* OpenAI APIs
-* Pose estimation models
-
-### **Mobile / Build Tools**
-
-* Android Studio
-* Gradle
-* Metro bundler
-* Expo (when useful)
-
-### **DevOps / Others**
-
-* Git & GitHub
-* VS Code
-* Postman
-* Docker (beginner)
+- **Full-stack Web Tools**  
+  Humble utilities for the living: fitness trackers that guilt you softly, budgeting spells that forgive instant noodle sins, productivity talismans that trick mortals into action.
 
 ---
+## ⚔️ Tools & Dark Arts I Wield
 
-## 📬 How to Reach Me
+### Frontend
+- React (my restless spirit animal)  
+- React Native (one body, two cursed platforms)  
+- TypeScript (to make the type errors howl before runtime does)  
+- TailwindCSS (utility classes — cheat codes for the dishonored)  
+- Next.js (still apprenticing; pages hydrate like angry ghosts sometimes)
 
-* **LinkedIn:** [www.linkedin.com/in/raheem-campbell-947223381](www.linkedin.com/in/raheem-campbell-947223381)
-* **Instagram:** [https://www.instagram.com/alex_fx876](https://www.instagram.com/alex_fx876/))
+### Backend / APIs
+- Node.js (eternal, like regret)  
+- Express (the simple foundation of haunted houses)  
+- Firebase / Firestore (serverless sorcery)  
+- Supabase (the open-source rival who fights fairer)  
+- REST APIs (because GraphQL remains too arrogant for my path)  
+- Python (when data must be processed without summoning despair)
 
-Feel free to reach out if you want to collaborate or have an opportunity you think I’d be a good fit for!
+### AI / ML
+- MediaPipe (sees your squat better than any sensei)  
+- TensorFlow.js (ML in the browser — a trick that often backfires spectacularly)  
+- OpenAI APIs (I seek its wisdom; it questions why I still write bugs)  
+- Pose estimation models (spot bad form faster than a judgmental oni)
+
+### Mobile / Build Tools
+- Android Studio (where builds linger like restless spirits)  
+- Gradle (the source of my deepest grudges)  
+- Metro bundler (swift until it decides to vanish)  
+- Expo (when I pretend existence can be gentle)
+
+### DevOps / Others
+- Git & GitHub (my eternal graveyard of branches)  
+- VS Code (the shrine where I meditate)  
+- Postman (for when APIs disappear without farewell)  
+- Docker (apprentice level: I summon images, but containers still elude me)
+
+---
+## 📜 How to Summon This Ghost
+
+If you wish to collaborate, offer a quest worthy of my blade, or present an opportunity that does not involve banishing my code to the void — speak.
+
+Slide into the shadows (DMs) or leave an offering in issues. Mention “phantom functions” or “ghost commits” in your message for instant favor from the beyond.
+
+The wind carries whispers. I will answer... eventually.
+
+👻 *No rest for the coded dead.*
